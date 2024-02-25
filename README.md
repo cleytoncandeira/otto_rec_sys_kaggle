@@ -1,6 +1,6 @@
 # OTTO E-Commerce Recommender System Challenge
 
-![OTTO E-Commerce Recommender System Challenge Logo](https://storage.googleapis.com/kaggle-organizations/3827/thumbnail.png)
+![OTTO E-Commerce Recommender System Challenge Logo](https://www.xing.com/imagecache/public/scaled_original_image/eyJ1dWlkIjoiZmE0YzdiMjctM2U5OC00MGFiLWI3Y2YtZjYwZTYzMGM4OWFlIiwiYXBwX2NvbnRleHQiOiJlbnRpdHktcGFnZXMiLCJtYXhfd2lkdGgiOjMyMCwibWF4X2hlaWdodCI6MzIwfQ?signature=9514ef667522ac47f990879a2ec3e03b7b70297dde51a99995ca61696572e1f0)
 
 ## Dataset Description
 
