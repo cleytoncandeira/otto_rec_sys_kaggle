@@ -1,6 +1,6 @@
 # OTTO E-Commerce Recommender System Challenge
 
-![OTTO E-Commerce Recommender System Challenge Logo]([/mnt/data/image.png](https://storage.googleapis.com/kaggle-organizations/3827/thumbnail.png))
+![OTTO E-Commerce Recommender System Challenge Logo](https://storage.googleapis.com/kaggle-organizations/3827/thumbnail.png)
 
 ## Dataset Description
 
